@@ -1,4 +1,4 @@
-# Areduino Studio code for VacPack Cosplay Gun
+# Arduino Studio code for VacPack Cosplay Gun
 This C++ code powers [my build](https://www.thingiverse.com/make:1063546) of the [Slime Rancher VacPack Cosplay Gun](https://www.thingiverse.com/thing:5366906).  It can be built using the Arduino Studio.  I have tested this on an Arduino Nano and Arduino Uno.
 
 [![Image of VacPack in action](http://img.youtube.com/vi/fQHmXDEwyE4/0.jpg)](http://www.youtube.com/watch?v=fQHmXDEwyE4 "Slime Rancher VacPack")
